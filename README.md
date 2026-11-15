@@ -193,7 +193,7 @@ Add your screenshots here:
 
 ## 👩‍💻 Author
 
-Built by **Seelamneni Lavanya**.
+Built by **Anumandla Vaishnavi**.
 
 ## 📄 License
 
